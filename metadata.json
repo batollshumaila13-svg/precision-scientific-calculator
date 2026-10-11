@@ -1,0 +1,6 @@
+{
+  "name": "Precision Scientific Calculator",
+  "description": "High-precision scientific and arithmetic calculator featuring trigonometry, calculus helpers, 2D function plotter, unit converter, memory registers, and real-time computation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
